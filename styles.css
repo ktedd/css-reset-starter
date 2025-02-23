@@ -100,6 +100,7 @@ nav ul{
     grid-template-columns: 1fr 1fr 1fr;
     gap: 1rem;
     padding: 0;
+    margin: 1em 0;
 }
 
 nav a{
@@ -124,6 +125,8 @@ main > section{
 
 h1{
     font-size: 2rem;
+    font-weight: bold;
+    margin: 0.67em 0;
 }
 
 /* Styles for the h2 & h3 tags */
