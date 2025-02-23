@@ -122,6 +122,10 @@ main > section{
     padding: 1rem 0;
 }
 
+hi{
+    font-size: 2rem;
+}
+
 /* Styles for the h2 & h3 tags */
 h2, h3{
     text-align: center;
